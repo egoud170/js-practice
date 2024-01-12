@@ -28,3 +28,11 @@ console.log(typeof (number))
 
  console.log(stringNumber);//it is converted into string
  console.log(typeof stringNumber);
+
+ //Operations
+ //+ =(1+2)
+ //- = (1-2)
+ // /=>(1/2)
+// *=>(1*2)
+// **=>(1**2)
+// %=>(1%2)=> it gives reminder value
